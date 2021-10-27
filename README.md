@@ -15,3 +15,8 @@ The control must be donewithdigital electronics(aka you must read the value of t
 * 3 330 ohms resistors
 * connection cables
 
+# Setup
+![SetupHw1](https://user-images.githubusercontent.com/40142811/139057233-b06bd210-a544-4d58-b465-0480d003a5f9.jpeg)
+
+#Live demo
+You can access the live demo using this link: https://www.youtube.com/watch?v=e9ZMd7sGPAE
