@@ -32,3 +32,14 @@ The system has the following states:
 2.  State 2(initiated by counting down 10 seconds after a button press):the light should be yellow for cars, red for people and no sounds.Duration: 3 seconds.
 3.  State 3(iniated after state 2 ends): red for cars, green for people anda beeping sound from the buzzer at a constant interval. Duration:10 seconds.
 4.  State 4(initiated after state 3 ends): red for cars,blinking greenfor people and a beeping sound from the buzzer, at a constant inter-val, faster than the beeping i
+
+
+## Components
+ 5 LEDs, 1 button, 1 buzzer, resistors and wires (per logic)
+ 
+## Setup
+![Hw2_Setup](https://user-images.githubusercontent.com/40142811/140174408-75080f3e-2a79-4fc3-9052-1edf6722bd83.jpeg)
+
+## Live Demo
+
+ 
