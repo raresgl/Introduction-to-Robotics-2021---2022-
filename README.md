@@ -54,3 +54,5 @@ a buzzer and a 7-segment display
 ## Setup
 ![Hw3](https://user-images.githubusercontent.com/40142811/141168503-d4a2eb9f-5b6d-4b92-9657-fb75f4916bc2.jpeg)
 
+## Live Demo
+https://youtu.be/HrWQLelACp8
