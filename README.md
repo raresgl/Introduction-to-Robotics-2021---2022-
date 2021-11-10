@@ -42,4 +42,15 @@ The system has the following states:
 
 ## Live Demo
 You can access the live demo using this link: https://youtu.be/y_VPY5b39fc
- 
+
+# HOMEWORK 3:
+
+## Technical Task
+Should detect EMF (check body and near outlets. It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity.
+
+## Components
+a buzzer and a 7-segment display 
+
+## Setup
+![Hw3](https://user-images.githubusercontent.com/40142811/141168503-d4a2eb9f-5b6d-4b92-9657-fb75f4916bc2.jpeg)
+
