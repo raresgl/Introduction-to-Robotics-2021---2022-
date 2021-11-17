@@ -1,7 +1,8 @@
 # Introduction-to-Robotics-2021---2022
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
 
-# HOMEWORK 1:
+<details>
+ <summary> HOMEWORK 1: </summary>
 
 ## Technical Task
 Use a separate potentiometer in controlling each of thecolor of the RGB led (Red,Green andBlue).  
@@ -20,7 +21,8 @@ The control must be donewithdigital electronics(aka you must read the value of t
 
 ## Live demo
 You can access the live demo using this link: https://www.youtube.com/watch?v=e9ZMd7sGPAE
-
+</details>
+ 
 # HOMEWORK2:
 
 ## Technical Task
