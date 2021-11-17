@@ -2,7 +2,7 @@
 Introduction to Robotics laboratory homeworks, taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. Each homework includes requirements, implementation details, code and image files.
 
 <details>
- <summary> # HOMEWORK 1: </summary>
+ <summary> HOMEWORK 1: </summary>
 
 ## Technical Task
 Use a separate potentiometer in controlling each of thecolor of the RGB led (Red,Green andBlue).  
@@ -24,7 +24,7 @@ You can access the live demo using this link: https://www.youtube.com/watch?v=e9
 </details>
  
 <details>
- <summary> # HOMEWORK2: </summary>
+ <summary> HOMEWORK2: </summary>
 
 ## Technical Task
 Building the traffic lights for a crosswalk. Youwill use 2 LEDs to represent the traffic lights for people (red and green)and 3 LEDs to represent the traffic lights for cars (red, yellow and green).
@@ -48,7 +48,7 @@ You can access the live demo using this link: https://youtu.be/y_VPY5b39fc
 </details>
 
 <details>
-<summary> # HOMEWORK 3: </summary>
+<summary> HOMEWORK 3: </summary>
 
 ## Technical Task
 Should detect EMF (check body and near outlets. It should printthe value on the 7-segment display (or light the led bar)andshould makea sound based on the intensity.
